@@ -1,0 +1,19 @@
+Multimeter- https://datasheetspdf.com/pdf-file/784884/ETC/DT830/1
+
+PIR Motion sensor- https://lastminuteengineers.com/pir-sensor-arduino-tutorial/
+
+IR Sensor Module- file:///D:/Downloads/arduino-ir-infrared-obstacle-avoidance-sensor-module.pdf
+
+Sound Module- https://components101.com/modules/lm393-sound-detection-sensor-module
+
+Transmitter and receiver- https://www.rhydolabz.com/wireless-general-c-130_131/rf-transmitter-and-receiver-pair-434mhz-p-1847.htmlIR 
+
+Infrared Sensor- https://components101.com/sensors/tsop1838-ir-receiver
+
+Motor Shield- https://5.imimg.com/data5/PX/UK/MY-1833510/l293d-based-arduino-motor-shield.pdf
+
+Joystick module- https://components101.com/modules/joystick-module
+
+Push Button- https://startingelectronics.org/tutorials/arduino/modules/push-button/
+
+OLED display- https://www.rajguruelectronics.com/Product/1145/OLED%204%20Pin%20128x64%20Display%20module%200.96%20inch%20blue%20color.pdf
